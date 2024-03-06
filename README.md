@@ -1,2 +1,2 @@
-**Red Hat OpenShift example app
-**
+Red Hat OpenShift example app
+
