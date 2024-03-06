@@ -1,1 +1,1 @@
-# kontenery-podstawy 2023
+#Red Hat OpenShift example app
